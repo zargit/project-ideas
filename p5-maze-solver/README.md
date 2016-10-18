@@ -3,7 +3,7 @@
 We all know what a maze is, its something mysterious and scary, none of us wants to get stuck in one, we always want a way out from there. But its not always easy to find your way out of a maze, it requires lots of ground work and you need to know the complete layout of the maze. Lets look at a scary maze - 
 
 ![Alt Text](./maze.png "Scary Maze")
-
+> > [By Purpy Pupple - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=13326157)
 Heres a very nice [demo](http://www.primaryobjects.com/maze/) of a maze solver, check this out.
 
 ### Project Requirement:

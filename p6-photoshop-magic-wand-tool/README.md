@@ -2,7 +2,7 @@
 - - - -
 Adobe Photoshop is the brand photo editor out there, its hard to find a product with similar efficiency as this. One of the crucial tool that is part of Adobe Photoshops basic tool set is the **Magic Wand Tool**, you cannot imagine editing photos without this tool. Heres some sample photo - 
 
- ![Alt Text](.magic-wand-tool.jpg "Magic Wand Tool") | ![Alt Text](./uses1.jpg "Sample 1") | ![Alt Text](./uses2.png "Sample 2") 
+ ![Alt Text](./magic-wand-tool.jpg "Magic Wand Tool") | ![Alt Text](./uses1.jpg "Sample 1") | ![Alt Text](./uses2.png "Sample 2") 
 -----------------------------------------------------|-------------------------------------|-------------------------------------
 
 Heres a [YouTube video](https://www.youtube.com/watch?v=xzq_HWdvwn0) showing in detail the use of Magic Wand Tool.

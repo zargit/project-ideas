@@ -5,7 +5,7 @@ Trie Tree is a very special kind of tree data structure that performs very effic
 
 ![Alt text](./trie-tree.png "Sample Trie Tree")
 
-Watch this [YouTube video]() to know how to build a simple dictionary using Trie Tree.
+Watch this [YouTube video](https://www.youtube.com/watch?v=Up7yEHUqN30) to know how to build a simple dictionary using Trie Tree.
 
 ### Project Requirement:
 - - - -

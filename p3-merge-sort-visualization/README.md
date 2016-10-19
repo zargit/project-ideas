@@ -2,7 +2,7 @@
 - - - - 
 Sorting is one of the fundamental algorithms in computer science, there are different kinds of sorting algorithms with variying efficiency and time complexity. Among those Merge Sort is one of the best with a stable time complexity of O(*nlogn*). Heres couple of picture showing sorting visulaizaton -
 
-| ![Alt Text]("./before_sorting.png" "Before Sorting") | ![Alt Text]("./after_sorting.png" "After Sorting")
+| ![Alt Text](./before_sorting.png "Before Sorting") | ![Alt Text](./after_sorting.png "After Sorting")
 -----------------------------------------------------|-----------------------------------
 > Courtesy
 > > Mohamed Elsayed
